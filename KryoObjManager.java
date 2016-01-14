@@ -1,4 +1,3 @@
-package com.etrans.lib.kryo;
 
 import com.esotericsoftware.kryo.Kryo;
 import com.esotericsoftware.kryo.io.Input;

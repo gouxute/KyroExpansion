@@ -1,4 +1,3 @@
-package com.etrans.lib.kryo;
 
 /**
  * Created by maotz on 2015-03-20.

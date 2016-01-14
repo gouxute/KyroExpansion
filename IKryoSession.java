@@ -1,4 +1,3 @@
-package com.etrans.lib.kryo;
 
 import java.net.SocketAddress;
 

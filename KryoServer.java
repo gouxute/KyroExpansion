@@ -1,4 +1,3 @@
-package com.etrans.lib.kryo;
 
 import com.etrans.lib.net.tcp.ITcpListener;
 import com.etrans.lib.net.tcp.ITcpServer;
